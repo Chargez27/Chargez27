@@ -4,7 +4,7 @@
 - Geekdoing : https://chargez27.github.io/geekdoing/
 - Secret : https://chargez27.github.io/web/
  
-- 📫 How to reach me : You can contact me on my discord server - https://chargez27.github.io/discord/
+- 📫 How to reach me : You can contact me here - https://chargez27.github.io/contact/
  
 
 <!---
