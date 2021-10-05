@@ -1,5 +1,6 @@
 - Hi, I’m Chargez
 - Website : https://chargez27.github.io/website/
+- Pinboard - https://chargez27.github.io/pinboard/
 - Youtube : https://chargez27.github.io/youtube/
 - Geekdoing : https://chargez27.github.io/geekdoing/
 - Secret : https://chargez27.github.io/web/
