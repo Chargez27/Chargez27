@@ -2,7 +2,7 @@
 - Website : https://chargez27.github.io/website/
 - Pinboard : https://chargez27.github.io/pinboard/
 - Youtube : https://chargez27.github.io/youtube/
-- Twitter : https://chargez27.github.io/twitter/
+- Twitter : www.twitter.com/Chargez_27
 - Geekdoing : https://chargez27.github.io/geekdoing/
 - Secret : https://chargez27.github.io/web/
  
