@@ -1,5 +1,5 @@
 - Hi, I’m Chargez
-- Website : https://chargez27.github.io/website/
+- Website : https://chargez27.github.io
 - Pinboard : https://chargez27.github.io/pinboard/
 - Youtube : https://chargez27.github.io/youtube/
 - Twitter : www.twitter.com/Chargez_27
